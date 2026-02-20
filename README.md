@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**Mashi0629/Mashi0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Hi%20I'm%20Mashi%20💖&fontSize=40&fontColor=ffffff" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">💻 Software Engineering Student | Flutter Lover 💕 | Future Tech Queen 👑</h3>
+
+---
+
+## 🌸 About Me
+- 🎓 Software Engineering Student
+- 📱 Building beautiful Flutter apps
+- 🌐 Learning Go & Backend Development
+- 🏆 Hackathon Explorer
+- 💖 Obsessed with pink & clean UI
+
+---
+
+## 💕 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,go,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mashi0629&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 🔥 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashi0629&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌷 Cute Developer Quote
+> "Code like a queen. Debug like a warrior. 💕"
+
+---
+
+<p align="center">
+  🌸 Thanks for visiting my profile 🌸
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+</p>
