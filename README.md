@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,ff69b4&height=220&section=header&text=Mashi0629%20💖&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Hi%20I'm%20Mashi%20💖&fontSize=40&fontColor=ffffff" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=Flutter+Princess+💖;Backend+in+Progress+🌸;Hackathon+Queen+👑;Pink+Lover+Forever+💕" />
