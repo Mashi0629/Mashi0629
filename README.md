@@ -46,6 +46,9 @@
 > “Debugging today so future me can relax in pink peace.” 🌸💕
 
 ---
+<p align="center">
+  🌸 Thanks for visiting my profile 🌸
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
