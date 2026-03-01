@@ -11,7 +11,7 @@
 
 ## 🌸 About Me
 
-<img align="right" width="150" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
+<img align="right" width="170" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" />
 
 - 🎓 Software Engineering Student  
 - 📱 Building cute & powerful Flutter apps  
@@ -27,19 +27,32 @@
   <img src="https://skillicons.dev/icons?i=flutter,go,mysql,git,github,vscode&theme=light" />
 </p>
 
----
 
-## 🌷 Sparkly Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mashi0629&show_icons=true&theme=radical&border_radius=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashi0629&layout=compact&theme=radical&border_radius=15" />
-</p>
 
 ---
+
+## 💕 Contribution Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mashi0629&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Mashi0629?color=ff69b4&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Mashi0629?color=ff69b4&style=for-the-badge" />
+</p>
+
+
+---
+
+
+## 🌸 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mashi0629&theme=dracula&bg_color=ff69b4&color=ffffff&line=ffffff&point=ffffff" />
+</p>
+
+
+---
+
 
 ## 💌 Cute Dev Quote
 
