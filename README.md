@@ -1,63 +1,132 @@
+<h1 align="center">Hi 👋 I'm Mashi</h1>
+<h3 align="center">🌸 Software Engineering Undergraduate | Flutter Developer | Backend Learner 🌸</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Hi%20I'm%20Mashi%20💖&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Flutter+Developer;Backend+Learner;Hackathon+Enthusiast" />
-</p>
-
----
-
-## 🌸 About Me
-
-<img align="right" width="170" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" />
-
-- 🎓 Software Engineering Undergraduate  
-- 📱 Passionate about building mobile applications with Flutter  
-- 🌐 Currently learning backend development and Go  
-- 🏆 Actively participating in hackathons and tech events  
-- 💡 Interested in creating user-friendly and impactful applications  
-
----
-
-## 💖 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,go,mysql,git,github,vscode&theme=light" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&color=FF69B4&lines=Software+Engineering+Student;Flutter+Developer;Backend+Developer+in+Progress;Always+Learning+New+Technologies;Hackathon+Enthusiast+💖" />
 </p>
 
 ---
 
-## 📊 Profile Stats
+# 🌸 About Me
+
+<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 Software Engineering Undergraduate
+
+📱 Passionate Flutter Developer
+
+🌐 Learning Go, Java, REST APIs & Backend Development
+
+💻 Interested in Full Stack Development
+
+🏆 Love Hackathons & Tech Communities
+
+🌱 Currently building real-world software projects
+
+✨ Goal: Become a Software Engineer creating impactful applications
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mashi0629&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Mashi0629?color=ff69b4&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Mashi0629?color=ff69b4&style=for-the-badge" />
+
+<img src="https://skillicons.dev/icons?i=java,flutter,dart,go,python,cs"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,firebase"/>
+
 </p>
 
 ---
 
-## 🌸 Contribution Activity
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mashi0629&theme=dracula&bg_color=ff69b4&color=ffffff&line=ffffff&point=ffffff" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mashi0629&show_icons=true&theme=radical&hide_border=true" />
-</p>
----
 
-## 💡 Developer Quote
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mashi0629&show_icons=true&theme=radical&hide_border=true"/>
 
-> “Continuous learning and consistent practice are the keys to becoming a better developer.”
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashi0629&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
 
 ---
 
+# 🔥 Contribution Streak
+
 <p align="center">
-  🌸 Thank you for visiting my profile 🌸
+
+<img src="https://streak-stats.demolab.com?user=Mashi0629&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mashi0629&theme=radical&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Calendar
+
+> 💖 My GitHub profile already includes private contributions in the official contribution calendar.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Mashi0629&style=for-the-badge&color=ff69b4"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🌸 *"Code with passion, learn with curiosity, and build with purpose."* 💖
+
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 </p>
