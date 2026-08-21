@@ -1,132 +1,52 @@
-<h1 align="center">Hi 👋 I'm Mashi</h1>
-<h3 align="center">🌸 Software Engineering Undergraduate | Flutter Developer | Backend Learner 🌸</h3>
+<h1 align="center">Hi there, I'm Mashi 👋</h1>
+<h3 align="center">Software Engineering Undergraduate @ NSBM Green University</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&color=FF69B4&lines=Software+Engineering+Student;Flutter+Developer;Backend+Developer+in+Progress;Always+Learning+New+Technologies;Hackathon+Enthusiast+💖" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Building+with+PHP%2C+React+%26+Flutter;Learning+something+new+every+day;Turning+ideas+into+code" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🌸 About Me
+### 🧑‍💻 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-🎓 Software Engineering Undergraduate
-
-📱 Passionate Flutter Developer
-
-🌐 Learning Go, Java, REST APIs & Backend Development
-
-💻 Interested in Full Stack Development
-
-🏆 Love Hackathons & Tech Communities
-
-🌱 Currently building real-world software projects
-
-✨ Goal: Become a Software Engineer creating impactful applications
+- 🎓 Currently pursuing a **BSc (Hons) in Software Engineering** at NSBM Green University
+- 💼 Working as a **Software Engineering Intern**, building web applications with a PHP stack
+- 🌱 Comfortable across the stack — from **Flutter & React** on the frontend to **FastAPI, Python, PHP, Java & Node.js** on the backend
+- 🚀 Interested in building practical, real-world admin panels, dashboards and management systems
+- 📫 Always open to connecting and collaborating on interesting projects
 
 ---
 
-# 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,flutter,dart,go,python,cs"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,firebase"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css,php,python,fastapi,java,go,nodejs,mysql,git,github" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mashi0629&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashi0629&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mashi0629&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashi0629&layout=compact&theme=radical&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mashi0629&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+### 🤝 Connect with Me
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mashi0629&theme=radical&hide_border=true"/>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/poboshini-omashi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:poboshiniomashi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mashi0629&theme=radical&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Calendar
-
-> 💖 My GitHub profile already includes private contributions in the official contribution calendar.
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Mashi0629&style=for-the-badge&color=ff69b4"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical"/>
-
-</p>
-
----
-
-<p align="center">
-
-### 🌸 *"Code with passion, learn with curiosity, and build with purpose."* 💖
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
-</p>
+<p align="center"><i>"Code with passion, learn with curiosity, and build with purpose." 🌸</i></p>
